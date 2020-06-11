@@ -9,8 +9,7 @@ class App extends Component {
   state={
     items:[],
     id:0,
-    item:'',
-    editItem:false
+    item:''
   }
   render(){
     return (
